@@ -1,8 +1,11 @@
 # MSDS-610-Final-Project
 
+This project is a continuation of the MSDS 610 Code Demo. All data not included in this repo can be found at the link below.
+https://github.com/jg-pacheco/MSDS-610-Code-Demo
+
 # Introduction
 
-A Database is a collection of data stored in a formation that can easily be accessed. And **Relational Database** store data in tables that are linked to each other using relationships(keys)**.**
+A Database is a collection of data stored in a formation that can easily be accessed. And a **Relational Database** stores data in tables that are linked to each other using relationships(keys)**.**
 
 # Database Keys
 
